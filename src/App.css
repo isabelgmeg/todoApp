@@ -1,0 +1,9 @@
+body {
+  background-image: linear-gradient(120deg, #43e271 0%, #2a00b7 100%);
+  color: white;
+  font-family: "Poppins", sans-serif;
+  min-height: 100vh;
+}
+header.h1{
+  font-size: 3rem;
+}
